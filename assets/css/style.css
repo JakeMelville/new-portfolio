@@ -1,0 +1,36 @@
+body, html {
+   height: 100%;
+}
+#image {
+   background-image: url("../images/nyc4.jpg");
+   height: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+#side {
+   height: 100%;
+   background-color: rgba(77, 15, 15, 0.624);
+}
+.container {
+   height: max-content;
+}
+img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+h2, h4 {
+   text-align: center;
+   color: white
+}
+p {
+   text-align: center;
+   color: white;
+}
+ul {
+   list-style-type: none;
+   color: white;
+   text-align: center;
+   justify-content: space-around;
+}
