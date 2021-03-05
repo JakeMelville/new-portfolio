@@ -32,5 +32,18 @@ ul {
    list-style-type: none;
    color: white;
    text-align: center;
-   justify-content: space-around;
+   justify-content: space-evenly;
+   margin: auto;
+   padding: auto;
 }
+a:link {
+   color: white;
+   background-color: transparent;
+   text-decoration: none;
+ }
+ 
+ a:visited {
+   color: white;
+   background-color: transparent;
+   text-decoration: none;
+ }
