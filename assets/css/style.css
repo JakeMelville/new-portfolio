@@ -35,15 +35,45 @@ ul {
    justify-content: space-evenly;
    margin: auto;
    padding: auto;
+   font-size: 24px;
 }
 a:link {
    color: white;
    background-color: transparent;
    text-decoration: none;
  }
- 
+#sideBar li:hover {
+   color: grey;
+   /* background-color: black; */
+}
  a:visited {
    color: white;
    background-color: transparent;
    text-decoration: none;
  }
+#exitBtn {
+   background-color: grey;
+   border: white;
+   color: black;  
+}
+p {
+   color: black;
+}
+#contactUl {
+   color: black;
+}
+#contactUl li a:link {
+   color: royalblue;
+}
+#contactUl li a:visited {
+   color: royalblue;
+}
+#contactUl li a:hover {
+   color: white;
+}
+/* #aboutCard {
+   display: none;
+}
+#contactCard {
+   display: none;
+} */
