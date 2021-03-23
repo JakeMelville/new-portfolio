@@ -17,5 +17,7 @@ function showContactCard(event) {
     document.getElementById("aboutCard").setAttribute('hidden', true);
     document.getElementById("contactCard").removeAttribute('hidden')
 }
+
+
 document.getElementById("abtMe").addEventListener("click", showAboutMe)
 document.getElementById("meContact").addEventListener("click", showContactCard)

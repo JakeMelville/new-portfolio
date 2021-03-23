@@ -1,0 +1,10 @@
+#jumbo {
+    font-size: 50;
+}
+#home {
+    color: white;
+}
+#home a:visited {
+    color: white;
+    text-decoration: none;
+}
