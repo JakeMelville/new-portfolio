@@ -35,7 +35,7 @@ ul {
    justify-content: space-evenly;
    margin: auto;
    padding: auto;
-   font-size: 24px;
+   font-size: 20px;
 }
 a:link {
    color: white;
@@ -69,11 +69,5 @@ p {
    color: royalblue;
 }
 #contactUl li a:hover {
-   color: white;
+   color: royalblue;
 }
-/* #aboutCard {
-   display: none;
-}
-#contactCard {
-   display: none;
-} */
